@@ -1,20 +1,23 @@
 # Water-Potability
 
-In questo progetto si analizza il dataset “water_potability.csv”, scaricato dalla piattaforma Kaggle e contenente informazioni riguardanti l'analisi di campioni di acqua.
-Il progetto si pone l'obiettivo di costruire un algoritmo di Machine Learning per predire la potabilità di un campione d'acqua in base ai parametri misurati su di esso. Maggiori informazioni relative allo svolgimento del progetto e alle conclusioni tratte nel file "Relazione-Water-Potability.pdf".
+This project analyzes the `water_potability.csv` dataset, downloaded from Kaggle, which contains information related to the analysis of water samples.
 
-Descrizione del contenuto:
-- metriche-SVM.csv: file CSV che contiene metriche relative ad un modello di Support Vector Machine (SVM).
-- Relazione-Water-Potability.pdf: documento PDF che rappresenta la relazione del progetto, incentrato sulla potabilità dell'acqua.
-- script-analisi-risultati.py: script Python dedicato all'analisi dei risultati ottenuti.
-- script-water-potability.py: script Python utilizzato probabilmente per l'analisi dei dati sulla potabilità dell'acqua.
-- water_potability.csv: dataset CSV relativo ai dati sulla potabilità dell'acqua.
-- Istruzioni-progetto.pdf: documento PDF contenente le richieste dei docenti del corso per la realizzazione del progetto.
+The goal of the project is to build a Machine Learning algorithm to predict whether a water sample is potable based on its measured parameters. More information about the project development and conclusions can be found in the `Relazione-Water-Potability.pdf` file.
 
-Per la realizzazione del progetto è stata consultata la documentazione "WHO Guidelines for drinking-water quality.pdf", contenente le linee guida della WHO sulla qualità dell'acqua potabile.
+## Contents
 
-Il progetto è stato realizzato da Francesco Maria Fuligni nell'ambito del corso di Statistica Numerica, parte del Corso di Laurea in Informatica per il Management presso l'Università di Bologna, nell'anno 2024.
+- `metriche-SVM.csv`: CSV file containing metrics related to a Support Vector Machine (SVM) model.
+- `Relazione-Water-Potability.pdf`: PDF report of the project, focused on water potability.
+- `script-analisi-risultati.py`: Python script dedicated to analyzing the obtained results.
+- `script-water-potability.py`: Python script used for data analysis and water potability prediction.
+- `water_potability.csv`: CSV dataset containing water potability data.
+- `Istruzioni-progetto.pdf`: PDF document containing the course instructors' requirements for the project.
 
-Link al dataset “water_potability.csv” su Kaggle: https://www.kaggle.com/datasets/nayanack/water-probability
+For the development of the project, the documentation `WHO Guidelines for drinking-water quality.pdf` was consulted, containing the WHO guidelines on drinking-water quality.
 
-Link al documento della WHO: https://www.who.int/publications/i/item/9789240045064
+The project was developed by Francesco Maria Fuligni as part of the Numerical Statistics course, within the Bachelor's Degree in Informatics for Management at the University of Bologna, in 2024.
+
+## Links
+
+- Kaggle dataset: [water_potability.csv](https://www.kaggle.com/datasets/nayanack/water-probability)
+- WHO document: [Guidelines for drinking-water quality](https://www.who.int/publications/i/item/9789240045064)
