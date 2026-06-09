@@ -1,4 +1,4 @@
-# Water-Potability
+# Water Potability
 
 This project analyzes the `water_potability.csv` dataset, downloaded from Kaggle, which contains information related to the analysis of water samples.
 
